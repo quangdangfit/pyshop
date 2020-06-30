@@ -11,4 +11,4 @@ __pycache__/
 db.sqlite3
 #migrations
 api/migrations
-authentication/migrations
+authen/migrations
